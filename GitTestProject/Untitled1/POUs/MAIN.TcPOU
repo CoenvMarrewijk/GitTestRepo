@@ -4,6 +4,8 @@
     <Declaration><![CDATA[PROGRAM MAIN
 VAR
 	bDummt : BOOL;
+	rDummy : REAL;
+	
 END_VAR
 ]]></Declaration>
     <Implementation>
